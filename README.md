@@ -7,7 +7,7 @@ Create a script that accepts the file name and puts its extension to output. If 
 Given a list of integers. Remove duplicates from the list and create a tuple. Find the minimum and maximum number.
 
 <h3>TASK 3</h3>
-Create a script that reads the access log from a file. The name of the file is provided as an argument. An output of the script should provide the total number of different User Agents and then provide statistics with the number of requests from each of them. Here is a link to an example access.log file.
+Create a script that reads the access log from a file. The name of the file is provided as an argument. An output of the script should provide the total number of different User Agents and then provide statistics with the number of requests from each of them. The example file is provided within this repo
 
 <h3>TASK 4</h3>
 Given an input string, count occurrences of all characters within a string (e.g. pythonnohtyppy -> p:3, y:3, t:2, h:2, o:2, n:2).
