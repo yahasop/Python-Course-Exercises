@@ -1,5 +1,7 @@
 <h1>The Python Course Exercises </h1>
 
+These are the requirements of each task:
+
 <h3>TASK 1</h3>
 Create a script that accepts the file name and puts its extension to output. If there is no extension - an exception should be raised.
 
